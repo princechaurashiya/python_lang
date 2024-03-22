@@ -41,7 +41,7 @@ cal = {"day1":420, "day2":380, "day3":390}
 result = pd.Series(cal,index =["day1","day2"])
 print(result)
 
-# DataFrame: Data sets in pandas are usually multidimentinal tavles ,, and they are called DataFrame 
+# DataFrame: Data sets in pandas are usually multidimentinal tabes ,, and they are called DataFrame 
 # Series are like a columns and dataframes is the whole table.
 
 # we will now create a dataframe from 2 series.
